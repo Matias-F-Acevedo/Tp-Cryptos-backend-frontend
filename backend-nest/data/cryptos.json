@@ -1,0 +1,108 @@
+{ 
+  "crypto": [
+    {
+      "id": 1,
+      "name": "Bitcoin",
+      "price": 45000.25,
+      "volume": 78965432.12,
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/800px-Bitcoin.svg.png"
+    },
+    {
+      "id": 2,
+      "name": "Ethereum",
+      "price": 3000.87,
+      "volume": 45678901.23,
+      "img": "https://cryptologos.cc/logos/ethereum-eth-logo.png"
+    },
+    {
+      "id": 3,
+      "name": "Cardano",
+      "price": 2.15,
+      "volume": 1234567.89,
+      "img": "https://cdn4.iconfinder.com/data/icons/crypto-currency-and-coin-2/256/cardano_ada-512.png"
+    },
+    {
+      "id": 4,
+      "name": "Binance Coin",
+      "price": 400.50,
+      "volume": 2345678.90,
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Binance-coin-bnb-logo.png/800px-Binance-coin-bnb-logo.png"
+    },
+    {
+      "id": 5,
+      "name": "Solana",
+      "price": 150.75,
+      "volume": 3456789.01,
+      "img": "https://cdn-icons-png.flaticon.com/512/6001/6001527.png"
+    },
+    {
+      "id": 6,
+      "name": "XRP",
+      "price": 1.05,
+      "volume": 4567890.12,
+      "img": "https://static.vecteezy.com/system/resources/previews/024/093/519/original/xrp-glass-crypto-coin-3d-illustration-free-png.png"
+    },
+    {
+      "id": 7,
+      "name": "Polkadot",
+      "price": 28.60,
+      "volume": 5678901.23,
+      "img": "https://cryptologos.cc/logos/polkadot-new-dot-logo.png"
+    },
+    {
+      "id": 8,
+      "name": "Dogecoin",
+      "price": 0.30,
+      "volume": 6789012.34,
+      "img": "https://cryptologos.cc/logos/dogecoin-doge-logo.png"
+    },
+    {
+      "id": 9,
+      "name": "Avalanche",
+      "price": 60.15,
+      "volume": 7890123.45,
+      "img": "https://cryptologos.cc/logos/avalanche-avax-logo.png"
+    },
+    {
+      "id": 10,
+      "name": "Chainlink",
+      "price": 25.80,
+      "volume": 8901234.56,
+      "img": "https://cryptologos.cc/logos/chainlink-link-logo.png"
+    },
+    {
+      "id": 11,
+      "name": "Terra",
+      "price": 35.25,
+      "volume": 9012345.67,
+      "img": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Terra-luna-luna-logo.png"
+    },
+    {
+      "id": 12,
+      "name": "Cosmos",
+      "price": 18.40,
+      "volume": 123456.78,
+      "img": "https://cryptologos.cc/logos/cosmos-atom-logo.png"
+    },
+    {
+      "id": 13,
+      "name": "Tezos",
+      "price": 6.70,
+      "volume": 23456.89,
+      "img": "https://cryptologos.cc/logos/tezos-xtz-logo.png"
+    },
+    {
+      "id": 14,
+      "name": "VeChain",
+      "price": 0.12,
+      "volume": 3456.90,
+      "img": "https://static.vecteezy.com/system/resources/previews/011/307/303/original/vechain-vet-badge-crypto-3d-rendering-free-png.png"
+    },
+    {
+      "id": 15,
+      "name": "Uniswap",
+      "price": 20.50,
+      "volume": 456.01,
+      "img": "https://cdn3d.iconscout.com/3d/premium/thumb/uniswap-4437041-3684808.png"
+    }
+  ]}

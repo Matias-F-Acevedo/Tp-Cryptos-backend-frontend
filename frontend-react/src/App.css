@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+
+.container-cards{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+  background-image: url(https://fondosmil.com/fondo/10790.jpg);
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
